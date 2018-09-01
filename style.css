@@ -1,0 +1,19 @@
+/* clearing the unnecessary spaces of body */
+body{
+    clear: both;
+}
+
+header{
+    height: 100%;/*setting header height 100%*/
+    width: 100%;/*setting header width 100%*/
+    display: flex;/*setting flext layout*/
+   
+}
+div{
+    background-color: green;/* setting div background color to green*/
+    width: 33%;/*setting div width to 33%*/
+    height: 500px;/*setting div height to500px*/
+    margin: 10px;/*setting outer space of 10px*/
+    padding: 10px;/*setting inner space of 10px*/
+    text-align: center;/*aligning div contents to center*/
+}
